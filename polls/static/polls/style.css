@@ -1,0 +1,12 @@
+body {
+    background: lightblue url("images/bg.png") no-repeat;
+}
+li a {
+    color: green;
+}
+h1 {
+    color: red;
+}
+.error_message {
+    color: red;
+}

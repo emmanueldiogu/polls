@@ -1,0 +1,8 @@
+__pycahe__/
+*.pyc
+*.log
+
+venv
+.env
+db.sqlite3
+staticfiles/
