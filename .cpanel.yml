@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/agileeducation/repositories/
+    - export DEPLOYPATH=/home/agileprojecteduc/repositories/
     - /bin/cp -R * $DEPLOYPATH
